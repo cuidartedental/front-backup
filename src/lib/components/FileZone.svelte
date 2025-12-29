@@ -28,8 +28,8 @@
       >
     </div>
     <p class="text-sm font-semibold text-gray-700">
-      {file ? file.name : "Seleccionar archivo de base de datos"}
+      {file ? file.name : "Seleccionar archivo"}
     </p>
-    <p class="text-xs text-gray-400 mt-1">Formato SQL, ZIP o PDF</p>
+    <p class="text-xs text-gray-400 mt-1"></p>
   </div>
 </div>
