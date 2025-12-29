@@ -12,7 +12,7 @@
 
   // 2. Configuración de la API
   // Asegúrate de que esta URL sea la de tu servicio en Render
-  const BASE_URL = import.meta.env.VITE_API_URL_LOCAL;
+  const BASE_URL = import.meta.env.VITE_API_URL;
 
   async function handleUpload() {
     // Validar que haya un archivo seleccionado
